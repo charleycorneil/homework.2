@@ -1,0 +1,27 @@
+footer {
+  height: 455px;
+  background-color: #ee4367;
+
+  .sign-up {
+    height: 60px;
+    display: flex;
+
+    input {
+      height: 100%;
+      width: 529px;
+      //   background-color: #ee3467;
+      border: none;
+      color: rgba(238, 67, 103, 0.5);
+      font-size: 16px;
+      padding-left: 15px;
+    }
+
+    .button {
+      height: 100%;
+      width: 167px;
+      background-color: white;
+      display: flex;
+      justify-content: space-evenly;
+    }
+  }
+}

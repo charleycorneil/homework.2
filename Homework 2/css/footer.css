@@ -1,0 +1,29 @@
+footer {
+  height: 455px;
+  background-color: #ee4367;
+}
+footer .sign-up {
+  height: 60px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+footer .sign-up input {
+  height: 100%;
+  width: 529px;
+  border: none;
+  color: rgba(238, 67, 103, 0.5);
+  font-size: 16px;
+  padding-left: 15px;
+}
+footer .sign-up .button {
+  height: 100%;
+  width: 167px;
+  background-color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+}
